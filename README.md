@@ -8,5 +8,3 @@
 
 사용 패키지
 - pandas, Matplotlib, Seaborn, Pm4py, Graphviz
-
-  
